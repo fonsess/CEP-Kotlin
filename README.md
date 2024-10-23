@@ -13,7 +13,7 @@ Este é um aplicativo Android desenvolvido em Kotlin que permite a amostra do CE
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/fnzz0/CEP-Kotlin
+   git clone https://github.com/fonsess/CEP-Kotlin
 
 ## Contato
 
